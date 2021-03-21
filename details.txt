@@ -1,0 +1,2 @@
+['Mohammad Asif', '9162312416', 'Male', 'Cash', 1]
+['Shabaj Ansari', '91612217416', 'Male', 'PhonePay', 0]
